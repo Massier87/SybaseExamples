@@ -1,1 +1,1 @@
-# SybaseExamples
+# The repository contains sybase examples. I have created this repository as a quick refence.
